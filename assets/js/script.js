@@ -493,7 +493,6 @@ function submitSearch(event) {
 
 
 
-// Stevedevelop branch section
 
 
 
@@ -516,7 +515,8 @@ function submitSearch(event) {
 
 
 
-// tamara JS conde //
+
+
 
 
 
